@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "64B7A310-CBD3-4CFD-BF98-0E41413B6118"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94977878-7BA2-4FEE-9DE1-3A4BF05AB2F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getUrl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77811F32-FB4D-4C50-905A-F70D02836C01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setUrl(string:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77811F32-FB4D-4C50-905A-F70D02836C01 - a33b3aba364d9ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.getUrl() -&gt; Swift.String"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "77811F32-FB4D-4C50-905A-F70D02836C01 - 967bbd77ed63c35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.setUrl(string: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "71">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE10BC78-2CDA-428B-B74C-90540DF8406E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getUrl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE10BC78-2CDA-428B-B74C-90540DF8406E - a33b3aba364d90c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.getUrl() -&gt; Swift.String"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "395">
+               </Location>
+               <Location
+                  uuid = "CE10BC78-2CDA-428B-B74C-90540DF8406E - a33b3aba364d90c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.getUrl() -&gt; Swift.String"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "CE10BC78-2CDA-428B-B74C-90540DF8406E - a33b3aba364d90c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.getUrl() -&gt; Swift.String"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4E0B0C9-A516-4364-9AB6-722E6A4CF71C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "presentViewForNewDomen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4E0B0C9-A516-4364-9AB6-722E6A4CF71C - 2be6e60b73727aea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "D4E0B0C9-A516-4364-9AB6-722E6A4CF71C - 2be6e60b73727aea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1355">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "836E18DE-0512-445C-B860-BA3BF2F9F00D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "presentViewForNewDomen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "836E18DE-0512-445C-B860-BA3BF2F9F00D - 59cf77d8e4267506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "173">
+               </Location>
+               <Location
+                  uuid = "836E18DE-0512-445C-B860-BA3BF2F9F00D - 34ef206f3d788144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UITextField) -&gt; () in Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "836E18DE-0512-445C-B860-BA3BF2F9F00D - 59cf77d8e4267506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93D1B979-1E1E-4A80-9EF3-07A35C38B0F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "presentViewForNewDomen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93D1B979-1E1E-4A80-9EF3-07A35C38B0F6 - 2be6e60b73727aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1419">
+               </Location>
+               <Location
+                  uuid = "93D1B979-1E1E-4A80-9EF3-07A35C38B0F6 - 2be6e60b73727aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Restaurant_Review.ViewController.presentViewForNewDomen() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F405EC21-0794-4CF1-B1A9-0B2DBF671047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "loadWebPage(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F405EC21-0794-4CF1-B1A9-0B2DBF671047 - 25d8026c0fbd65b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.loadWebPage(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "F405EC21-0794-4CF1-B1A9-0B2DBF671047 - 25d8026c0fbd6599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.loadWebPage(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B085B93A-7C70-451A-8939-D7C473363067"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "loadWebPage(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B085B93A-7C70-451A-8939-D7C473363067 - 25d8026c0fbd6444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.loadWebPage(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "482">
+               </Location>
+               <Location
+                  uuid = "B085B93A-7C70-451A-8939-D7C473363067 - 25d8026c0fbd6444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.loadWebPage(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75A17F7C-B25F-46A6-AAE6-DD7B78268DB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "verifyUrl(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75A17F7C-B25F-46A6-AAE6-DD7B78268DB1 - 2237e4c2fa960a2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "75A17F7C-B25F-46A6-AAE6-DD7B78268DB1 - 2237e4c2fa960a2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2698D101-0D89-49F4-B079-3C6F99EE41CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "verifyUrl(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2698D101-0D89-49F4-B079-3C6F99EE41CB - 2237e4c2fa960acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "2698D101-0D89-49F4-B079-3C6F99EE41CB - 2237e4c2fa960acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A45A37C-5D13-446A-8988-7511A90C679F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "verifyUrl(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A45A37C-5D13-446A-8988-7511A90C679F - 2237e4c2fa960b12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "395">
+               </Location>
+               <Location
+                  uuid = "3A45A37C-5D13-446A-8988-7511A90C679F - 2237e4c2fa9608dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.verifyUrl(urlString: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "395">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71274D3F-C379-49E4-8A91-9C3E73DE9024"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restaurant Review/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71274D3F-C379-49E4-8A91-9C3E73DE9024 - 72af0432c6f10d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "489">
+               </Location>
+               <Location
+                  uuid = "71274D3F-C379-49E4-8A91-9C3E73DE9024 - 72af0432c6f10d0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Restaurant_Review.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Restaurant Review"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergeygaponov/Projects/Restaurant%20Review/Restaurant%20Review/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "742">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
